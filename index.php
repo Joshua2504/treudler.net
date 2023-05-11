@@ -31,7 +31,7 @@
 					DE Germany<br>
 					<br>
 					<strong>Contact:</strong><br>
-					<s>+49 6182 8499819<s><br>
+					<s>+49 6182 8499819</s><br>
 					hello<at>treudler<dot>net<br>
 				</td>
 		</tr>
