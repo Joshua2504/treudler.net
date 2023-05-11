@@ -51,7 +51,7 @@
 					</ul>
 					<strong>Monitoring:</strong>
 					<ul>
-						<li><a href="https://smokeping.treudler.net/" target="_blank">Smokeping</a></li>
+						<li><img src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-web_smokeping-treudler-net/health/badge.svg" /><a href="https://smokeping.treudler.net/" target="_blank">Smokeping</a></li>
 						<li><a href="https://gatus.status.treudler.net/" target="_blank">Gatus</a></li>
 						<li><a href="https://kuma.status.treudler.net/" target="_blank">Uptime Kuma</a></li>
 					</ul>
