@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joshua2504
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://treudler.net
+  * I am joshua2504 (https://keybase.io/joshua2504) on keybase.
+  * I have a public key ASAOp0-HHpqsBjnV0ltD9w3h9X4OhK0oDAjQiV0ONJYiFAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca9480be56cfde72150f8c543b98f5a5d5f1624566ffae57d7c47e1a5f983e980a",
+      "host": "keybase.io",
+      "kid": "01200ea74f871e9aac0639d5d25b43f70de1f57e0e84ad280c08d0895d0e349622140a",
+      "uid": "a54a416685b1df1b8b7e779219e32c19",
+      "username": "joshua2504"
+    },
+    "merkle_root": {
+      "ctime": 1683799857,
+      "hash": "ea0ca69d6ca8b4197c421f143bca0f31407be0febb24c95f1e8ea90937656115e0b8d409e1fda90f0c010bb854a275d30cbf2900cee85f3a38cb65601e48c07b",
+      "hash_meta": "4912c9b257ab444b4d43d4f55bf79d4169d9aa466d8e17f58b2dd4882a6d997e",
+      "seqno": 24437999
+    },
+    "service": {
+      "entropy": "hUlECe1c923pMC9sZ2bqGyHe",
+      "hostname": "treudler.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1683800066,
+  "expire_in": 504576000,
+  "prev": "1e5c375e5c6cc5e2528a9a8ac5493b461106e0d06863b4d6610bc4eb35e516b8",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDqdPhx6arAY51dJbQ/cN4fV+DoStKAwI0IldDjSWIhQKp3BheWxvYWTESpcCQMQgHlw3XlxsxeJSipqKxUk7RhEG4NBoY7TWYQvE6zXlFrjEID2kLdoGN+s/SoU1ew2Vdf09VuE+qfV3v3M0lfpZhP/PAgHCo3NpZ8RAXtSppklNS2cVgIv9FYu0s96TilntuZ40gvqmIeIShddrAbC5hfMgdin9okSCcQxtb5t1xdiHhTsA0oCFOsSMCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE+5w8qV6aLkwKDwkOwRIj5am6FRJ7YF+ytr5fdIOESqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshua2504
+
+==================================================================
