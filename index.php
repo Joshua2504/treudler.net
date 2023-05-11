@@ -40,8 +40,21 @@
 				<div style="border: 2px solid #dedede; padding: 10px">
 					<strong>Services hosted by me:</strong><br>
 					<ul>
-					<li>-</li>
+					<li><a href="https://cor-forum.de" target="_blank">cor-forum.de</a> (with <a href="https://maps.cor-forum.de" target="_blank">maps</a> and <a href="https://usercontent.cor-forum.de" target="_blank">usercontent &#x2020;</a>)</li>
+					<li><a href="https://cdn1.treudler.net" target="_blank">cdn1</a> and <a href="https://cdn2.treudler.net" target="_blank">cdn2 &#x2020;</a></li>
+
                     <li>-</li>
+					</ul>
+					<strong>Monitoring:</strong>
+					<ul>
+						<li><a href="https://smokeping.treudler.net/" target="_blank">Smokeping</a></li>
+						<li><a href="https://gatus.status.treudler.net/" target="_blank">Gatus</a></li>
+						<li><a href="https://kuma.status.treudler.net/" target="_blank">Uptime Kuma</a></li>
+					</ul>
+					<strong>Archiving:</strong>
+					<ul>
+						<li><a href="https://archivebox.treudler.net/" target="_blank">ArchiveBox</a></li>
+
 					</ul>
 					<p>Feel free to get in touch with me.</p>
 				</div>
