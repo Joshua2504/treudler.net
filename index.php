@@ -46,7 +46,7 @@
 					<strong>Services hosted by me:</strong><br>
 					<ul>
 					<li><a href="https://cor-forum.de" target="_blank">cor-forum.de</a> (with <a href="https://maps.cor-forum.de" target="_blank">maps</a> and <a href="https://usercontent.cor-forum.de" target="_blank">usercontent &#x2020;</a>)</li>
-					<li><a href="https://cdn1.treudler.net" target="_blank">cdn1</a> and <a href="https://cdn2.treudler.net" target="_blank">cdn2 &#x2020;</a></li>
+					<li><a href="https://cdn.treudler.net" target="_blank">cdn</a> and <a href="https://cdn2.treudler.net" target="_blank">cdn2 &#x2020;</a></li>
 					</ul>
 					<strong>Monitoring:</strong>
 					<ul>
