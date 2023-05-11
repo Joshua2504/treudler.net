@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<title>Treudler Online</title>
+<title>Joshua Treudler - Home</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 <style type="text/css">
 	body {
@@ -22,37 +22,30 @@
 				<div style="border: 2px solid #dedede; padding: 10px">
 					<strong>I am:</strong><br>
 					Joshua Treudler<br>
-                    trading as Treudler Online<br>
+                    (formerly trading as Treudler Online)<br>
+					<br>
+					<br>
+					<strong>Imprint:</strong><br>
 					Hahnenkammstraße 9<br>
 					60388 Frankfurt am Main<br>
 					DE Germany<br>
 					<br>
 					<strong>Contact:</strong><br>
-					+49 6182 8499819<br>
+					<s>+49 6182 8499819<s><br>
 					hello<at>treudler<dot>net<br>
 				</td>
 		</tr>
 		<tr>
-			<!-- td valign="top">
+			<td valign="top">
 				<div style="border: 2px solid #dedede; padding: 10px">
-					<strong>Our specialities are:</strong><br>
+					<strong>Services hosted by me:</strong><br>
 					<ul>
-					<li>Linux Server management</li>
-                    <li>Data hosting and processing operations</li>
+					<li>-</li>
+                    <li>-</li>
 					</ul>
-					<strong>What we offer:</strong>
-					<ul>
-				    <li>24 / 7 Support</li>
-				    <li>High Security Guidelines</li>
-					<li>Water-Cooled Servers</li>
-				    <li>Regular Backups</li>
-				    <li>Offsite Backups</li>
-					<li>Disaster Recovery</li>
-				    <li>Competent and friendly team</li>
-				    </ul>
-					<p>Get in touch with us and we will send you a personal quote.</p>
+					<p>Feel free to get in touch with me.</p>
 				</div>
-			</td --!>
+			</td>
 		</tr>
 	</tbody></table>
     <!-- Matomo -->
