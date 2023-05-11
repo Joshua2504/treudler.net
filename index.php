@@ -45,7 +45,7 @@
 					</ul>
 					<strong>Services hosted by me:</strong><br>
 					<ul>
-					<li><a href="https://cor-forum.de" target="_blank">cor-forum.de</a> (with <a href="https://maps.cor-forum.de" target="_blank">maps</a> and <a href="https://usercontent.cor-forum.de" target="_blank">usercontent &#x2020;</a>)</li>
+					<li><a href="https://cor-forum.de" target="_blank">cor-forum.de</a> (with <a href="https://maps.cor-forum.de" target="_blank">maps</a>, <a href="https://usercontent.cor-forum.de" target="_blank">usercontent &#x2020;</a> and <a href="https://old.cor-forum.de" target="_blank">old &#x2020;</a>)</li>
 					<li><a href="https://cdn.treudler.net" target="_blank">cdn</a> and <a href="https://cdn2.treudler.net" target="_blank">cdn2 &#x2020;</a></li>
 					<li>PiHole on <b>130.61.219.48</b></li>
 					</ul>
