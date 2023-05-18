@@ -40,7 +40,7 @@
 						<strong>My Servers:</strong><br>
 						<ul>
 						<li>Oracle Always Free (<a href="https://netdata-orakel.status.treudler.net" target="_blank">netdata</a>)</li>
-						<li>PH24 (<a href="https://netdata-ph24.status.treudler.net" target="_blank">netdata</a>)<</li>
+						<li>PH24 (<a href="https://netdata-ph24.status.treudler.net" target="_blank">netdata</a>)</li>
 						</ul>
 						<strong>Services hosted by me:</strong><br>
 						<ul>
