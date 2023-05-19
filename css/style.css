@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    font-size: 14px;
+    color: black;
+}
+
+.logo {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.table-left {
+    border: 2px solid; border-color:#dedede; padding: 10px;
+}
+
+.table-right {
+    border: 2px solid; border-color:#dedede; padding: 10px;
+}

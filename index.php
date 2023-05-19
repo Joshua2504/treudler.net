@@ -2,23 +2,16 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<title>Joshua Treudler - Home</title>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-	<style type="text/css">
-		body {
-			font-family: Arial;
-			font-size: 14px;
-	}
-	</style>
+	<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
-		<br>
-		<br>
-		<br>
-		<table width="730" style="margin:0 auto">
-			<tbody><tr>
-				<td width="380"><img src="https://cdn.treudler.net/web/logo/sized.png"></td><br>
-				<br>
-				<td rowspan="2" style="border: #dedede">
-					<div style="border: 2px solid #dedede; padding: 10px">
+		<div class="logo">
+			<img src="https://cdn.treudler.net/web/logo/sized.png">
+		</div>
+	<table width="800" style="margin:0 auto; top:50px; position:relative;">
+		<tbody>
+			<!-- tr>
+				<td class="table-right" rowspan="2">
 						<strong>I am:</strong><br>
 						Joshua Treudler<br>
 						(formerly trading as Treudler Online)<br>
@@ -32,11 +25,10 @@
 						<strong>Contact:</strong><br>
 						<s>+49 6182 8499819</s><br>
 						helloATtreudlerDOTnet<br>
-					</td>
-			</tr>
+				</td>
+			</tr -->
 			<tr>
-				<td valign="top">
-					<div style="border: 2px solid #dedede; padding: 10px">
+				<td class="table-left">
 						<strong>My Servers:</strong><br>
 						<ul>
 						<li>Oracle Always Free (<a href="https://netdata-orakel.status.treudler.net" target="_blank">netdata</a>)</li>
@@ -65,11 +57,11 @@
 						<ul>
 							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-web_archivebox-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://archivebox.treudler.net/" target="_blank">ArchiveBox</a></li>
 						</ul>
-						<p>Feel free to get in touch with me.</p>
-					</div>
+						<p>Feel free to get in touch with me. mail: hello AT treudler DOT net NOSPAM</p>
 				</td>
 			</tr>
-		</tbody></table>
+		</tbody>
+	</table>
 	<!-- Matomo -->
 	<script>
 		var _paq = window._paq = window._paq || [];
