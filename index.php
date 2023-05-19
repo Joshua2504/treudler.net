@@ -44,30 +44,26 @@
 						</ul>
 						<strong>Services hosted by me:</strong><br>
 						<ul>
-						<li><a href="https://cor-forum.de" target="_blank">cor-forum.de</a> 
+						<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/cor-forum-web_cor-forum-de/health/badge.svg" /> &nbsp;&nbsp; <a href="https://cor-forum.de" target="_blank">cor-forum.de</a> 
 							<ul>
-							<li><a href="https://maps.cor-forum.de" target="_blank">maps</a></li>
-							<li><a href="https://beta.cor-forum.de" target="_blank">beta</a></li>
-							<li><a href="https://old.cor-forum.de" target="_blank">old &#x2020;</a></li>
-							<li><a href="https://usercontent.cor-forum.de" target="_blank">usercontent &#x2020;</a></li>
-								
+								<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/cor-forum-web_maps-cor-forum-de/health/badge.svg" /> &nbsp;&nbsp; <a href="https://maps.cor-forum.de" target="_blank">maps</a></li>
+								<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/cor-forum-web_beta-cor-forum-de/health/badge.svg" /> &nbsp;&nbsp; <a href="https://beta.cor-forum.de" target="_blank">beta</a></li>
+								<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/cor-forum-web_old-cor-forum-de/health/badge.svg" /> &nbsp;&nbsp; <a href="https://old.cor-forum.de" target="_blank">old &#x2020;</a></li>
+								<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/cor-forum-web_usercontent-cor-forum-de/health/badge.svg" /> &nbsp;&nbsp; <a href="https://usercontent.cor-forum.de" target="_blank">usercontent &#x2020;</a></li>
 							</ul>
-							<li>
-								<a href="https://cdn.treudler.net" target="_blank">cdn</a></li>
-							<li>	<a href="https://cdn2.treudler.net" target="_blank">cdn2 &#x2020;</a>
-							</li>
-						<li>PiHole on <b>130.61.219.48</b></li>
+							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-web_cdn-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://cdn.treudler.net" target="_blank">cdn</a></li>
+							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-web_cdn2-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://cdn2.treudler.net" target="_blank">cdn2 &#x2020;</a></li>
+							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/services_pihole-dns/health/badge.svg" /> &nbsp;&nbsp; PiHole on <b>130.61.219.48</b></li>
 						</ul>
 						<strong>Monitoring:</strong>
 						<ul>
 							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-status_smokeping-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://smokeping.treudler.net/" target="_blank">Smokeping</a></li>
-							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-status_gatus--statustreudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://gatus.status.treudler.net/" target="_blank">Gatus</a></li>
+							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-status_gatus-status-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://gatus.status.treudler.net/" target="_blank">Gatus</a></li>
 							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-status_kuma-status-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://kuma.status.treudler.net/" target="_blank">Uptime Kuma</a></li>
 						</ul>
 						<strong>Archiving:</strong>
 						<ul>
-							<li><a href="https://archivebox.treudler.net/" target="_blank">ArchiveBox</a></li>
-	
+							<li><img height="14px" src="https://gatus.status.treudler.net/api/v1/endpoints/treudler-web_archivebox-treudler-net/health/badge.svg" /> &nbsp;&nbsp; <a href="https://archivebox.treudler.net/" target="_blank">ArchiveBox</a></li>
 						</ul>
 						<p>Feel free to get in touch with me.</p>
 					</div>
