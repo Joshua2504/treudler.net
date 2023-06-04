@@ -29,6 +29,7 @@
 			</tr -->
 			<tr>
 				<td class="table-left">
+					    <a href="https://keybase.io/joshua2504" target="_blank">Keybase</a>
 						<strong>My Servers:</strong><br>
 						<ul>
 						<li>Oracle Always Free (<a href="https://netdata-orakel.status.treudler.net" target="_blank">netdata</a>)</li>
